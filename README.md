@@ -9,7 +9,7 @@
 &nbsp; &nbsp; &nbsp;
 <a href=""><img src="https://img.shields.io/badge/🎯%201ST%20PROJECT-4A90E2?style=for-the-badge&logo=github&logoColor=white" width="250"></a>
 &nbsp; &nbsp; &nbsp;
-<a href=""><img src="https://img.shields.io/badge/🚀%202ND%20PROJECT-27AE60?style=for-the-badge&logo=github&logoColor=white" width="250"></a>
+<a href="https://github.com/congcongee/ConnecJob"><img src="https://img.shields.io/badge/🚀%202ND%20PROJECT-27AE60?style=for-the-badge&logo=github&logoColor=white" width="250"></a>
 </div>
 
 ---
