@@ -6,7 +6,7 @@
 <div align="center">
 <a href="https://github.com/congcongee/ai"><img src="https://img.shields.io/badge/📚%20학습일지-E74C3C?style=for-the-badge&logo=github&logoColor=white" width="180"></a>
 &nbsp; &nbsp; &nbsp;
-<a href=""><img src="https://img.shields.io/badge/🎯%201ST%20PROJECT-4A90E2?style=for-the-badge&logo=github&logoColor=white" width="250"></a>
+<a href="https://github.com/aibbai/Project_911"><img src="https://img.shields.io/badge/🎯%201ST%20PROJECT-4A90E2?style=for-the-badge&logo=github&logoColor=white" width="250"></a>
 &nbsp; &nbsp; &nbsp;
 <a href="https://github.com/congcongee/ConnecJob"><img src="https://img.shields.io/badge/🚀%202ND%20PROJECT-27AE60?style=for-the-badge&logo=github&logoColor=white" width="250"></a>
 </div>
