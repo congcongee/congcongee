@@ -39,7 +39,7 @@
 
 ---
 
-<p align="center">
+<p align="left">
   ### 👀 Visitors
   <br>
   <img src="https://komarev.com/ghpvc/?username=congcongee&color=blueviolet&style=flat-square&label=Profile+Views" alt="congcongee" />
