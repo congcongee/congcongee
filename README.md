@@ -43,7 +43,8 @@
 | **Version Control** | ![Git](https://img.shields.io/badge/git-334155?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-475569?style=for-the-badge&logo=github&logoColor=white) |
 | **Deployment** | ![AWS](https://img.shields.io/badge/AWS-0369A1?style=for-the-badge&logo=amazonaws&logoColor=white) ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-0284C7?style=for-the-badge&logo=python&logoColor=white) ![Render](https://img.shields.io/badge/Render-0EA5E9?style=for-the-badge&logo=render&logoColor=white) |
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
-
 ### 👀 Visitors
 <img src="https://komarev.com/ghpvc/?username=congcongee&color=blueviolet&style=flat-square&label=Profile+Views" alt="congcongee" />
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
+
