@@ -39,11 +39,13 @@
 
 ---
 
-<p align="left">
-  ### 👀 Visitors
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=congcongee&color=blueviolet&style=flat-square&label=Profile+Views" alt="congcongee" />
-</p>
+<div align="left">
+
+**👀 Visitors**
+<br>
+<img src="https://komarev.com/ghpvc/?username=congcongee&color=blueviolet&style=flat-square&label=Profile+Views" alt="congcongee" />
+
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
