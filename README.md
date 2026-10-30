@@ -47,6 +47,3 @@
 
 ### 👀 Visitors
 <img src="https://komarev.com/ghpvc/?username=congcongee&color=blueviolet&style=flat-square&label=Profile+Views" alt="congcongee" />
-
-## 📊 GitHub Contributions
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=congcongee&theme=tokyo-night&hide_border=true)
