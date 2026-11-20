@@ -2,6 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20%EC%B1%84%EC%9B%90's%20Profile!&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%">
 </p>
 
+## 🔗 학습일지 & 프로젝트 LINK
+> 💡 **KDT 기업맞춤형 AI-X 교육과정 (824시간)**  
+> Python 기반 Full-Stack 개발 및 AI 모델링, LLM 학습일지와 프로젝트 협업 공간
+
+<div align="center">
+<a href="https://github.com/congcongee/ai"><img src="https://img.shields.io/badge/📚%20학습일지-E74C3C?style=for-the-badge&logo=github&logoColor=white" width="180"></a>
+&nbsp; &nbsp; &nbsp;
+<a href="https://github.com/aibbai/Project_911"><img src="https://img.shields.io/badge/🎯%201ST%20PROJECT-4A90E2?style=for-the-badge&logo=github&logoColor=white" width="250"></a>
+&nbsp; &nbsp; &nbsp;
+<a href="https://github.com/congcongee/ConnecJob"><img src="https://img.shields.io/badge/🚀%202ND%20PROJECT-27AE60?style=for-the-badge&logo=github&logoColor=white" width="250"></a>
+</div>
+
 ## 👋 About Me
 **박채원 (Pak Chewon)** · AI 서비스 개발 · 데이터 분석 (신입)
 
@@ -19,18 +31,6 @@
 | :--- | :--- | :--- | :--- |
 | **[ConnecJob](https://github.com/congcongee/ConnecJob)**<br>개인 · 2026.10–11 | 경험을 적으면 맞는 채용공고를 근거와 함께 추천하고 자소서 초안까지 만드는 RAG 서비스 ([배포](http://13.54.109.57:8000) · [영상](https://www.youtube.com/watch?v=rF4LaZISgIM)) | Django · LangChain · Chroma · OpenAI · AWS EC2 | 공고 60,100건 통합<br>추천 적합률 72% → **94%** |
 | **[Project911](https://github.com/aibbai/Project_911)**<br>팀 4명 · 2026.09–10 | 서울 자치구별 구급 수요 예측과 실시간 응급실 병상을 한 화면에서 보는 대시보드 | scikit-learn · Keras · Flask · Chart.js | 구급출동 116만 건 분석<br>25개 구 병상 조회 |
-
-## 🔗 학습일지 & 프로젝트 LINK
-> 💡 **KDT 기업맞춤형 AI-X 교육과정 (824시간)**  
-> Python 기반 Full-Stack 개발 및 AI 모델링, LLM 학습일지와 프로젝트 협업 공간
-
-<div align="center">
-<a href="https://github.com/congcongee/ai"><img src="https://img.shields.io/badge/📚%20학습일지-E74C3C?style=for-the-badge&logo=github&logoColor=white" width="180"></a>
-&nbsp; &nbsp; &nbsp;
-<a href="https://github.com/aibbai/Project_911"><img src="https://img.shields.io/badge/🎯%201ST%20PROJECT-4A90E2?style=for-the-badge&logo=github&logoColor=white" width="250"></a>
-&nbsp; &nbsp; &nbsp;
-<a href="https://github.com/congcongee/ConnecJob"><img src="https://img.shields.io/badge/🚀%202ND%20PROJECT-27AE60?style=for-the-badge&logo=github&logoColor=white" width="250"></a>
-</div>
 
 ---
 
