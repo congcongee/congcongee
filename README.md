@@ -19,10 +19,10 @@
 
 데이터 수집·전처리부터 RAG 추천, Django·Flask 웹 서비스, AWS EC2 배포까지 직접 만들어 봤습니다.
 
+✉️ pcw0127@naver.com
+
 <div align="center">
 <a href="https://congcongee.github.io"><img src="https://img.shields.io/badge/🌐%20PORTFOLIO-0B1F4D?style=for-the-badge&logoColor=white" width="200"></a>
-&nbsp; &nbsp;
-<a href="mailto:pcw0127@naver.com"><img src="https://img.shields.io/badge/✉️%20pcw0127@naver.com-1D4ED8?style=for-the-badge&logoColor=white" width="260"></a>
 </div>
 
 ## 🚀 Projects
